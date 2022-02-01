@@ -1,15 +1,8 @@
-# hanoiTowerJava
-Ejercicio del curso de Algoritmos y Estructura de Datos de la carrera universitaria de Ingenieria De Sistemas en INTEC.
-
-
-#
-#
-From the original README.txt file
 ========================
 BUILD OUTPUT DESCRIPTION
 ========================
 
-When you build a Java application project that has a main class, the IDE
+When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
 files on the projects classpath to your projects dist/lib folder. The IDE
 also adds each of the JAR files to the Class-Path element in the application
@@ -38,4 +31,3 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
-
